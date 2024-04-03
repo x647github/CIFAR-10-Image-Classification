@@ -1,4 +1,4 @@
-# CIFAR-10 Image classification using CNN
+# CIFAR-10 Image Classification using CNN
 
 The CIFAR-10 dataset consists of 60,000 color images with a size of 32 x 32 in 10 classes (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck). There are 50,000 training images and 10,000 test images.
 
